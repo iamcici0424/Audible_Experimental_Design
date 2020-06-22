@@ -2,7 +2,10 @@
 
 ## Introduction
 
-The Engagement Marketing Team is designing an email campaign to 1 million customers of Audible. Their goals are to increase customer retention and decrease subscription cancellation. As a marketing specialist of The insights team here, I was asked to help them achieve the goal, design the email marketing testing plan and present the findings. This is an individual project and 10 pages maximum.
+The Engagement Marketing Team is designing an email campaign to 1 million customers of Audible. Their goals are to increase customer retention and decrease subscription cancellation. As a marketing specialist of The insights team here, I was asked to help them achieve the goal, design the email marketing testing plan and present the findings. 
+
+* This is an individual project and 10 pages maximum.
+* [Introduction](Analytics_Interview_Challenge.docx)
 
 ## Required Instructions
 
@@ -12,6 +15,6 @@ The Engagement Marketing Team is designing an email campaign to 1 million custom
 
 ## Reports
 
-* [PDF Version](.pdf)
+* [PDF Version](Audible_Cici_Chen.pdf)
 
 * [Google Doc Version](https://docs.google.com/document/d/1cSeR7G4QO4rpUnA-MghxjbbrG8OAmrRQPsHEB18XdTo/edit?usp=sharing)
