@@ -1,5 +1,4 @@
-# Audible Experimental Design
-
+# <img align="left" width="230" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/31_Audible_logo_logos-512.png"> Audible Experimental Design
 ## Introduction
 
 The Engagement Marketing Team is designing an email campaign to 1 million customers of Audible. Their goals are to increase customer retention and decrease subscription cancellation. As a marketing specialist of The insights team here, I was asked to help them achieve the goal, design the email marketing testing plan and present the findings. 
