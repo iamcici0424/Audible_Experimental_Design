@@ -15,6 +15,6 @@ The Engagement Marketing Team is designing an email campaign to 1 million custom
 
 ## Reports
 
-* [PDF Version](Audible_Cici_Chen.pdf)
+* [PDF Version:Audible Experiment Design Project](Audible_Cici_Chen.pdf)
 
-* [Google Doc Version](https://docs.google.com/document/d/1cSeR7G4QO4rpUnA-MghxjbbrG8OAmrRQPsHEB18XdTo/edit?usp=sharing)
+* [Google Doc Version: Audible Experiment Design Project](https://docs.google.com/document/d/1cSeR7G4QO4rpUnA-MghxjbbrG8OAmrRQPsHEB18XdTo/edit?usp=sharing)
