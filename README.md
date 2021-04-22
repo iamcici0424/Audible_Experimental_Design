@@ -1,4 +1,4 @@
-# <img width="80" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/31_Audible_logo_logos-512.png"> Audible Experimental Design
+# <img width="86" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/31_Audible_logo_logos-512.png"> Audible Experimental Design
 
 ## Introduction
 
